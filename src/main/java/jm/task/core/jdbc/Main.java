@@ -19,7 +19,7 @@ public class Main {
         us.getAllUsers();
         us.removeUserById(4);
         us.cleanUsersTable();
-        us.dropUsersTable();
+        //us.dropUsersTable();
     }
 }
 
