@@ -17,7 +17,7 @@ public class Main {
         us.saveUser("Mark", "Zuckerberg", (byte) 39);
         us.saveUser("Bill", "Gates", (byte) 68);
         us.getAllUsers();
-        us.removeUserById(4);
+        us.removeUserById(1);
         us.cleanUsersTable();
         us.dropUsersTable();
     }
